@@ -11,19 +11,26 @@ En esta práctica, partiendo del conocimiento previo sobre cómo controlar un br
 ## Instrucciones.
 ## 1.	Entrar a Epson RC+ e ingresar a las herramientas.
 Como primer paso, una vez abierto el programa Epson RC+, se deben abrir las pestañas Robot Manager y Simulator, que se encuentran en el apartado de herramientas. Esto permitirá una mejor visualización de las acciones que realizamos.
+
 ![image](https://github.com/user-attachments/assets/ff2ae04f-ea92-4532-a767-0846f0b250fd)
 
 ## 2.	Selección del Home del brazo.
 A continuación, debemos generar la primera memoria para nuestro brazo robótico, siendo la más importante la posición Home, ya que esta servirá como punto de referencia base. Para ello, es necesario ubicarse en la pestaña Robot Manager y encender los motores.
+
 ![image](https://github.com/user-attachments/assets/db78573f-c8ec-4f1e-abec-81998ff71cc4)
+
 Una vez estos estén encendidos pasamos a la etapa de jog & teach, donde se debe colocar el brazo robótico con los siguientes ángulos.
+
 ![image](https://github.com/user-attachments/assets/1899d161-2459-45f4-88bd-2710c89fae14)
+
 Una vez que el brazo esté en la posición deseada, podemos configurarla como el Home a establecer. Para ello, es necesario desplazarse hacia abajo en la pestaña Robot Manager, en el apartado Home Config. Allí, se debe leer la posición actual del brazo para guardarla como la nueva posición Home.
+
 ![image](https://github.com/user-attachments/assets/d6e5cf74-9e10-4b74-a71a-780150c24ab7)
 
 ## 3.	Generar las memorias de posiciones.
 Para generar las posiciones, primero se debe mover el brazo robótico a un punto específico. En este caso cualquier posición es válida, ya que se trata solo de una prueba.
 Una vez que el brazo esté en el punto deseado, en la pestaña Robot Manager, en el apartado Jog & Teach, se debe seleccionar la tecla Teach y guardar la posición con el nombre que prefiramos.
+
 ![image](https://github.com/user-attachments/assets/ccf1a880-7e74-4221-ba04-5d87bbdcc208)
 
 ## 4.	Programación para ejecutar los comandos de posición.
@@ -33,7 +40,9 @@ Una vez se tienen las posiciones, debemos de ubicarnos en el main con los siguie
 •	Para abrir la garra de la punta: on 2
 •	Para cerrar la garra de la punta: off 2
 Como ejemplo tenemos el siguiente código:
+
 ![image](https://github.com/user-attachments/assets/eac77ee8-20e2-4dc2-9122-d51ff13c525b)
+
 Donde su recorrido es: home, uno, home, dos, home, tres, home, cuatro, home, abre la garra y finalmente cierra la garra.
 
 ## 5.	Ejecución en físico.
@@ -42,17 +51,21 @@ Primeramente, se nos pide utilizar lo que se aprendió anteriormente para poder 
 De esta manera se tienen las siguientes posiciones:
 
 ![image](https://github.com/user-attachments/assets/93024b41-f961-49b1-ba50-5cb2f49d5e54)
+
 En este punto se encuentra sobre el fusible.
 
 ![image](https://github.com/user-attachments/assets/48183be5-5776-4299-b032-7586f2937148)
+
 En este punto el brazo robótico se encuentra listo para tomar el fusible.
 
 
 ![image](https://github.com/user-attachments/assets/2980b48b-6add-4ccd-8320-1585582eb5e8)
+
 Una vez se toma se sube un poco hacia arriba para evitar posibles colisiones.
 
 
 ![image](https://github.com/user-attachments/assets/c0715355-83f4-4385-98b1-9ee3fbc394fb)
+
 Finalmente se deja sobre la caja para soltarlo.
 
 Una vez se tienen todas las posiciones aprendidas se procede a programar el patrón que seguirá el brazo robótico.
