@@ -87,17 +87,21 @@ https://itecm-my.sharepoint.com/:v:/g/personal/l20121223_morelia_tecnm_mx/Ed1gyJ
 
 ## Conclusiones.
 Bryan Hiadim Vera Hernández.
+
 El uso del software Epson RC+ facilita el control del brazo robótico, permitiendo establecer y guardar posiciones clave, como el Home, lo que garantiza que el brazo pueda operar de manera segura ya que siempre tiene a donde debe regresar, para evitar errores o daños, es fundamental planificar las trayectorias del brazo robótico, como se vio en el proceso de recoger y colocar el fusible, ya que al programar las posiciones por las cuales se moverá el brazo debemos de tener en cuenta que este se moverá en línea recta entre posición y posición.
 Finalmente, se concluye con que la programación y ejecución de un brazo robótico se basa en la correcta planeación de los trayectos que este tomará, ya que si no se planifica antes este tenderá a chocar.
 
 Luis Fernando Duarte Reséndiz.
+
 La utilización del software Epson RC+ para el control del brazo robótico asegura una alta precisión operativa al permitir el establecimiento y almacenamiento de posiciones clave. La planificación meticulosa de las trayectorias, como la programación de movimientos en línea recta, previene errores y colisiones, optimizando así la precisión en las tareas automatizadas. La función Jog & Teach añade una capa adicional de flexibilidad, facilitando la programación y ajuste de diversas posturas. La aplicación efectiva de los conocimientos previos en el uso del software y en los principios de control robótico es esencial para alcanzar un rendimiento eficiente y confiable del brazo robótico.
 
 Mauricio Alberto Gómez Arroyo.
+
 La correcta optimización del control robótico con el software Epson RC+ es crucial para el manejo efectivo del brazo robótico. La planificación adecuada de los movimientos, especialmente en línea recta, ayuda a minimizar el riesgo de errores y colisiones, mejorando la exactitud de las operaciones automatizadas. La función que se utilizó para las memorias ofrece la flexibilidad necesaria para probar y ajustar diferentes posturas, facilitando la automatización de tareas tanto simples como complejas. 
 Esta práctica se concluye, con el conocimiento del control básico de un brazo robótico.
 
 Diego Brandon Guzmán Sierra.
+
 La integración del software Epson RC+ en el control del brazo robótico permite una operación precisa al establecer y guardar posiciones críticas, como el Home. La planificación detallada de los movimientos, como las trayectorias en línea recta, es esencial para evitar errores y mejorar la precisión en las tareas automatizadas. La capacidad de programar y ajustar diversas posturas mediante la función Jog & Teach proporciona una mayor flexibilidad, facilitando la automatización de procesos repetitivos y complejos. El éxito en la programación y operación del brazo robótico demuestra la importancia de aplicar conocimientos previos en el software y los principios de control robótico para lograr un desempeño eficiente y preciso.
 
 
