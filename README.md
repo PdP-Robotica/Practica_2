@@ -1,8 +1,12 @@
 # practica2
 ## Integrantes.
+
 •	Luis Fernando Duarte Reséndiz.
+
 •	Mauricio Alberto Gómez Arroyo.
+
 •	Diego Brandon Guzmán Sierra.
+
 •	Bryan Hiadim Vera Hernández.
 
 ## Introducción.
@@ -35,10 +39,15 @@ Una vez que el brazo esté en el punto deseado, en la pestaña Robot Manager, en
 
 ## 4.	Programación para ejecutar los comandos de posición.
 Una vez se tienen las posiciones, debemos de ubicarnos en el main con los siguientes conceptos:
+
 •	Para poner en el home, se escribe: home
+
 •	Para ir a algún punto se escribe: Go (nombre de la posición)
+
 •	Para abrir la garra de la punta: on 2
+
 •	Para cerrar la garra de la punta: off 2
+
 Como ejemplo tenemos el siguiente código:
 
 ![image](https://github.com/user-attachments/assets/eac77ee8-20e2-4dc2-9122-d51ff13c525b)
