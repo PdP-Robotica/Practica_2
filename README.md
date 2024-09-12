@@ -1,4 +1,4 @@
-# practica2
+# Práctica 2
 ## Integrantes.
 
 •	Luis Fernando Duarte Reséndiz.
@@ -84,6 +84,10 @@ Viéndose de la siguiente manera:
 
 A continuación, se tiene la visualización del video a la hora de ejecutarlo:
 https://itecm-my.sharepoint.com/:v:/g/personal/l20121223_morelia_tecnm_mx/Ed1gyJf6QZRPugkNFbvu4zsBdWR4i28lLy8Jgc9fmFNWnQ?e=W3BIiB
+
+## Referencias 
+
+De proyectos, A. y. D. (s/f). Manual del usuario. Epson.com. Recuperado el 09 de septiembre de 2024, de https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide_spanish_(v73r2).pdf
 
 ## Conclusiones.
 Bryan Hiadim Vera Hernández.
